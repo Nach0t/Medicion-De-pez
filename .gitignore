@@ -1,0 +1,88 @@
+# ================================
+# ROYECTO YOLOv8 - IGNACIO REHBEIN
+# ================================
+
+# --- ENTORNOS VIRTUALES UV / PYTHON ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- UV ---
+.uv/
+uv.lock
+
+# --- MODELOS Y PESOS ---
+*.pt
+*.onnx
+*.engine
+*.tflite
+*.h5
+*.ckpt
+*.pb
+
+# --- RESULTADOS DE ENTRENAMIENTO ---
+runs/
+runs_*/
+runs_kfold/
+runs_ultralytics/
+val*/
+val_medidos/
+predictions/
+output/
+outputs/
+results/
+logs/
+wandb/
+
+# --- ARCHIVOS DE SISTEMA ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- ARCHIVOS DE DATOS TEMPORALES ---
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.7z
+
+# --- IMÁGENES Y VIDEOS GRANDES ---
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# --- NOTEBOOKS TEMPORALES ---
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# --- CONFIGURACIONES PERSONALES ---
+*.vscode/
+.vscode/
+.idea/
+*.code-workspace
+
+# --- ARCHIVOS DE SALIDA O CACHE ---
+cache/
+__results__/
+*.json
+*.csv
+*.yaml
+*.yml
+
+# --- DOCUMENTOS NO CODIGO ---
+*.pdf
+*.docx
+*.xlsx
+*.pptx
