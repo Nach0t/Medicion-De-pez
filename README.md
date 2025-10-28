@@ -28,6 +28,10 @@ El flujo completo incluye:
 ```bash
 python gitclone/https://github.com/Nach0t/Medicion-De-pez.git
 ```
+Descargue la imagenes y descombrima en la raiz del proyecto:
+
+https://drive.google.com/file/d/1TgqSohYTAUt9ndqD2V-YdQidfkZj2gES/view?usp=sharing
+
 
 ### En Windows (CMD o PowerShell):
 
