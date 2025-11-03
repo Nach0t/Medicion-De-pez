@@ -6,6 +6,13 @@ Este proyecto implementa un sistema de **detección y medición automática de p
 
 ## Pasos rápidos para ejecutar
 
+### 0. Descargar el repositorio
+```bash
+git clone https://github.com/Nach0t/Medicion-De-pez.git
+cd Medicion-De-pez
+```
+
+
 ### 1. Crear y activar el entorno virtual
 
 **Windows (CMD o PowerShell):**
